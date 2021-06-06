@@ -10,5 +10,5 @@ response = requests.post(API_URL, data=json.dumps({"keyword" : movie_name}), hea
 
 index = 1
 for result in response.text:
-    print(f'{index} : {title}')
-    index += 1 
+    print(f'{index} : {response["title"]}')
+    index += 1
