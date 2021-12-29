@@ -1,6 +1,6 @@
 # Leetflix CLI 
 
-Leetflix is a simple software, mostly made for having fun in some hot summer days, which helps you whatch your favorite movies from the command line! But you know what makes it cooler? Of course you do. You won't pay a single penny to Netflix, HBO or Disney+ and you have tons of movies in your hand with a simple python script. 
+Leetflix is a simple software, mostly made for having fun in some hot summer days, which helps you watch your favorite movies from the command line! But you know what makes it cooler? Of course you do. You won't pay a single penny to Netflix, HBO or Disney+ and you have tons of movies in your hand with a simple python script. 
 
 So, you want to run it? let's do the shit together. 
 
